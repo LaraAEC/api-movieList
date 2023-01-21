@@ -1,5 +1,5 @@
 # api-movieList
-Desenvolve-se uma API, lida-se com Banco de Dados SQlite, linguagem SQL, Knex, Migrations,
+Desenvolve-se uma API em Nodejs, usa-se javascript como linguagem, lida-se com Banco de Dados SQlite, linguagem SQL, Knex, Migrations,
 request e response, json, verbos HTTP, Métodos GET e POST.
 Neste trabalho é produzido uma tabela de usuários para cadastrarem os filmes que assistiram e suas notas,
 bem como outros itens, como seu título, descrição, e, tags com a categoria do filme.
